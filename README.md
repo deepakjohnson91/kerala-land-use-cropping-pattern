@@ -1,6 +1,6 @@
 # Land Use and Cropping Pattern Data for Kerala
 ## 1. Overview
-This is to share all data files related to the research note ["Cropping Pattern Changes in Kerala, 1956&#8211;57 to 2016&#8211;17"](https://ras.org.in/index.php?Article=cropping_pattern_changes_in_kerala_1956), published in the *Review of Agrarian Studies* journal. The datasets on land use and cropping pattern statistics are available for both at the State and district level for Kerala (1956&#8211;57 to 2016&#8211;17).
+This is to share datasets related to the research note ["Cropping Pattern Changes in Kerala, 1956&#8211;57 to 2016&#8211;17"](https://ras.org.in/index.php?Article=cropping_pattern_changes_in_kerala_1956), published in the *Review of Agrarian Studies* journal. The datasets on land use and cropping pattern statistics are available for both at the State and district level for Kerala (1956&#8211;57 to 2016&#8211;17).
 
 Preparing a comparable dataset on land-use and cropping pattern of Kerala was a challenging engagement. Although some researchers have analysed the long-term statistics in the past, various issues had remained unaddressed at the time of writing the above note. I used the method adopted by the [International Crops Research Institute for the Semi-Arid Tropics (ICRISAT)](https://vdsa.icrisat.org/vdsa-mesodoc.aspx) for their district-level database, to generate comparable dataset at the level of nine composite districts (according to the administrative boundaries of 1957&#8211;58). 
 
